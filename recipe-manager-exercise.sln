@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recipe-manager-exercise", "recipe-manager-exercise\recipe-manager-exercise.csproj", "{B85F47B9-0128-4755-BA10-70558A7F63FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recipe-manager-exercise-tests", "recipe-manager-exercise-tests\recipe-manager-exercise-tests.csproj", "{78FB3875-50EB-41A7-9FE4-3C1C69B8EA44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85F47B9-0128-4755-BA10-70558A7F63FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85F47B9-0128-4755-BA10-70558A7F63FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85F47B9-0128-4755-BA10-70558A7F63FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85F47B9-0128-4755-BA10-70558A7F63FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78FB3875-50EB-41A7-9FE4-3C1C69B8EA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FB3875-50EB-41A7-9FE4-3C1C69B8EA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FB3875-50EB-41A7-9FE4-3C1C69B8EA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FB3875-50EB-41A7-9FE4-3C1C69B8EA44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {508DEEC3-4B9B-4F0B-BD3A-6A288A02E1C5}
+	EndGlobalSection
+EndGlobal
